@@ -32,6 +32,16 @@ To incorporate the provided information into the report, we can create a section
 
 ## 8. Results:
 
+| Metric       | Value |
+|--------------|-------|
+| Loss         | 0.96  |
+| Accuracy     | 0.73  |
+| True Positives (TP) | 335   |
+| False Positives (FP) | 95    |
+| True Negatives (TN) | 65    |
+| False Negatives (FN) | 241   |
+
+
 ### A. Precision-Recall Curve Analysis:
 
 The precision-recall curve provides valuable insights into the model's performance, especially in binary classification tasks where there is an imbalance between positive and negative classes. The curve illustrates the trade-off between precision and recall at various classification thresholds.
